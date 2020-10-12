@@ -1,0 +1,529 @@
+amount,city,fallChance,feelLike,hourTime,humidity,weatherDescription,weatherPic,weatherTemprature,wind,windDirection
+-,Ennis,10%,7 °C,00:00,83%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,18 km/h,Wind blowing from 311° Northwest to Southeast
+-,Ennis,9%,7 °C,01:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,18 km/h,Wind blowing from 313° Northwest to Southeast
+-,Ennis,12%,7 °C,02:00,85%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,18 km/h,Wind blowing from 312° Northwest to Southeast
+0.1  mm (rain),Ennis,30%,6 °C,03:00,85%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,19 km/h,Wind blowing from 310° Northwest to Southeast
+0.1  mm (rain),Ennis,36%,6 °C,04:00,85%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,19 km/h,Wind blowing from 309° Northwest to Southeast
+0.1  mm (rain),Ennis,30%,6 °C,05:00,85%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,19 km/h,Wind blowing from 310° Northwest to Southeast
+-,Ennis,12%,7 °C,06:00,86%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,18 km/h,Wind blowing from 312° Northwest to Southeast
+-,Ennis,9%,7 °C,07:00,87%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,18 km/h,Wind blowing from 316° Northwest to Southeast
+-,Ennis,8%,6 °C,08:00,89%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,18 km/h,Wind blowing from 321° Northwest to Southeast
+-,Ennis,6%,6 °C,09:00,89%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,17 km/h,Wind blowing from 327° North-northwest to South-southeast
+-,Ennis,5%,8 °C,10:00,84%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,16 km/h,Wind blowing from 333° North-northwest to South-southeast
+-,Ennis,4%,9 °C,11:00,80%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,16 km/h,Wind blowing from 337° North-northwest to South-southeast
+-,Ennis,4%,10 °C,12:00,78%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,17 km/h,Wind blowing from 339° North-northwest to South-southeast
+-,Ennis,3%,10 °C,13:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,18 km/h,Wind blowing from 342° North-northwest to South-southeast
+-,Ennis,3%,11 °C,14:00,74%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,19 km/h,Wind blowing from 358° North to South
+-,Ennis,3%,12 °C,15:00,72%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,14 °C,19 km/h,Wind blowing from 22° North-northeast to South-southwest
+-,Ennis,3%,12 °C,16:00,72%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,14 °C,20 km/h,Wind blowing from 32° North-northeast to South-southwest
+-,Ennis,5%,11 °C,17:00,74%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,19 km/h,Wind blowing from 29° North-northeast to South-southwest
+-,Ennis,7%,10 °C,18:00,76%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,16 km/h,Wind blowing from 22° North-northeast to South-southwest
+-,Ennis,9%,9 °C,19:00,80%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,14 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Ennis,8%,8 °C,20:00,82%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,14 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Ennis,7%,7 °C,21:00,82%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,14 km/h,Wind blowing from 12° North-northeast to South-southwest
+-,Ennis,5%,7 °C,22:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,14 km/h,Wind blowing from 10° North to South
+-,Ennis,5%,6 °C,23:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,14 km/h,Wind blowing from 9° North to South
+0.1  mm (rain),Athlone,35%,5 °C,00:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 287° West-northwest to East-southeast
+0.1  mm (rain),Athlone,41%,5 °C,01:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.1  mm (rain),Athlone,48%,5 °C,02:00,91%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 289° West-northwest to East-southeast
+0.1  mm (rain),Athlone,55%,5 °C,03:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 286° West-northwest to East-southeast
+0.1  mm (rain),Athlone,62%,5 °C,04:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 286° West-northwest to East-southeast
+0.2  mm (rain),Athlone,49%,5 °C,05:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 295° West-northwest to East-southeast
+0.1  mm (rain),Athlone,36%,5 °C,06:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 311° Northwest to Southeast
+-,Athlone,11%,5 °C,07:00,94%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,15 km/h,Wind blowing from 322° Northwest to Southeast
+-,Athlone,9%,5 °C,08:00,97%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,15 km/h,Wind blowing from 326° Northwest to Southeast
+-,Athlone,6%,5 °C,09:00,97%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,8 °C,15 km/h,Wind blowing from 328° North-northwest to South-southeast
+-,Athlone,3%,7 °C,10:00,90%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,15 km/h,Wind blowing from 333° North-northwest to South-southeast
+-,Athlone,3%,9 °C,11:00,83%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,17 km/h,Wind blowing from 345° North-northwest to South-southeast
+-,Athlone,3%,10 °C,12:00,79%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,18 km/h,Wind blowing from 5° North to South
+-,Athlone,3%,11 °C,13:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,19 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Athlone,7%,11 °C,14:00,75%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,20 km/h,Wind blowing from 25° North-northeast to South-southwest
+-,Athlone,12%,11 °C,15:00,75%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,21 km/h,Wind blowing from 26° North-northeast to South-southwest
+0.1  mm (rain),Athlone,33%,10 °C,16:00,75%,A few showers. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,21 km/h,Wind blowing from 24° North-northeast to South-southwest
+0.1  mm (rain),Athlone,28%,9 °C,17:00,78%,A few showers. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,21 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Athlone,12%,8 °C,18:00,82%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,21 km/h,Wind blowing from 10° North to South
+-,Athlone,10%,7 °C,19:00,85%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,20 km/h,Wind blowing from 3° North to South
+-,Athlone,8%,6 °C,20:00,87%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,19 km/h,Wind blowing from 1° North to South
+-,Athlone,7%,6 °C,21:00,86%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,17 km/h,Wind blowing from 359° North to South
+-,Athlone,5%,5 °C,22:00,86%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,16 km/h,Wind blowing from 359° North to South
+-,Athlone,6%,5 °C,23:00,87%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,16 km/h,Wind blowing from 1° North to South
+-,Galway,10%,7 °C,00:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,18 km/h,Wind blowing from 302° West-northwest to East-southeast
+0.1  mm (rain),Galway,25%,7 °C,01:00,85%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,18 km/h,Wind blowing from 305° Northwest to Southeast
+0.1  mm (rain),Galway,35%,7 °C,02:00,85%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,19 km/h,Wind blowing from 305° Northwest to Southeast
+0.1  mm (rain),Galway,45%,7 °C,03:00,85%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,21 km/h,Wind blowing from 304° Northwest to Southeast
+0.1  mm (rain),Galway,55%,6 °C,04:00,85%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,22 km/h,Wind blowing from 305° Northwest to Southeast
+0.1  mm (rain),Galway,45%,7 °C,05:00,85%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,21 km/h,Wind blowing from 309° Northwest to Southeast
+0.1  mm (rain),Galway,35%,7 °C,06:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,20 km/h,Wind blowing from 314° Northwest to Southeast
+-,Galway,12%,7 °C,07:00,87%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,19 km/h,Wind blowing from 320° Northwest to Southeast
+-,Galway,10%,7 °C,08:00,89%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,19 km/h,Wind blowing from 327° North-northwest to South-southeast
+-,Galway,7%,7 °C,09:00,89%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,19 km/h,Wind blowing from 333° North-northwest to South-southeast
+-,Galway,5%,8 °C,10:00,84%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,20 km/h,Wind blowing from 340° North-northwest to South-southeast
+-,Galway,4%,9 °C,11:00,80%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 345° North-northwest to South-southeast
+-,Galway,4%,10 °C,12:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,22 km/h,Wind blowing from 348° North-northwest to South-southeast
+-,Galway,3%,11 °C,13:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,22 km/h,Wind blowing from 352° North to South
+-,Galway,4%,12 °C,14:00,73%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,14 °C,23 km/h,Wind blowing from 8° North to South
+-,Galway,5%,12 °C,15:00,71%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,14 °C,24 km/h,Wind blowing from 34° Northeast to Southwest
+-,Galway,7%,12 °C,16:00,71%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,14 °C,24 km/h,Wind blowing from 45° Northeast to Southwest
+-,Galway,9%,11 °C,17:00,72%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,24 km/h,Wind blowing from 40° Northeast to Southwest
+-,Galway,12%,9 °C,18:00,79%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,22 km/h,Wind blowing from 31° North-northeast to South-southwest
+-,Galway,15%,9 °C,19:00,80%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,12 °C,21 km/h,Wind blowing from 24° North-northeast to South-southwest
+-,Galway,11%,8 °C,20:00,82%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,11 °C,20 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Galway,8%,8 °C,21:00,82%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,20 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Galway,4%,7 °C,22:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,19 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Galway,4%,6 °C,23:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,19 km/h,Wind blowing from 17° North-northeast to South-southwest
+0.2  mm (rain),Belmullet,33%,7 °C,00:00,80%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,37 km/h,Wind blowing from 320° Northwest to Southeast
+0.2  mm (rain),Belmullet,40%,7 °C,01:00,80%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,38 km/h,Wind blowing from 321° Northwest to Southeast
+0.4  mm (rain),Belmullet,36%,7 °C,02:00,81%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,38 km/h,Wind blowing from 325° Northwest to Southeast
+0.4  mm (rain),Belmullet,32%,7 °C,03:00,82%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,37 km/h,Wind blowing from 330° North-northwest to South-southeast
+0.3  mm (rain),Belmullet,28%,8 °C,04:00,82%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,36 km/h,Wind blowing from 335° North-northwest to South-southeast
+0.1  mm (rain),Belmullet,32%,8 °C,05:00,82%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,34 km/h,Wind blowing from 342° North-northwest to South-southeast
+0.1  mm (rain),Belmullet,36%,8 °C,06:00,81%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,31 km/h,Wind blowing from 350° North to South
+0.1  mm (rain),Belmullet,40%,8 °C,07:00,81%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,30 km/h,Wind blowing from 358° North to South
+0.1  mm (rain),Belmullet,38%,8 °C,08:00,81%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,30 km/h,Wind blowing from 2° North to South
+0.1  mm (rain),Belmullet,36%,8 °C,09:00,83%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,31 km/h,Wind blowing from 3° North to South
+0.1  mm (rain),Belmullet,34%,9 °C,10:00,81%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,12 °C,33 km/h,Wind blowing from 6° North to South
+0.1  mm (rain),Belmullet,28%,9 °C,11:00,80%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,12 °C,35 km/h,Wind blowing from 13° North-northeast to South-southwest
+-,Belmullet,10%,9 °C,12:00,78%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,37 km/h,Wind blowing from 22° North-northeast to South-southwest
+-,Belmullet,7%,9 °C,13:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,38 km/h,Wind blowing from 27° North-northeast to South-southwest
+-,Belmullet,6%,10 °C,14:00,75%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,37 km/h,Wind blowing from 31° North-northeast to South-southwest
+-,Belmullet,4%,10 °C,15:00,74%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,34 km/h,Wind blowing from 35° Northeast to Southwest
+-,Belmullet,3%,10 °C,16:00,73%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,32 km/h,Wind blowing from 38° Northeast to Southwest
+-,Belmullet,3%,10 °C,17:00,73%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,31 km/h,Wind blowing from 38° Northeast to Southwest
+-,Belmullet,2%,9 °C,18:00,74%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,30 km/h,Wind blowing from 38° Northeast to Southwest
+-,Belmullet,2%,9 °C,19:00,77%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,12 °C,28 km/h,Wind blowing from 37° Northeast to Southwest
+-,Belmullet,2%,9 °C,20:00,78%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,12 °C,26 km/h,Wind blowing from 36° Northeast to Southwest
+-,Belmullet,2%,9 °C,21:00,79%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,24 km/h,Wind blowing from 34° Northeast to Southwest
+-,Belmullet,2%,9 °C,22:00,80%,Clear.,//c.tadst.com/gfx/w/svg/wt-13.svg,11 °C,23 km/h,Wind blowing from 34° Northeast to Southwest
+-,Belmullet,2%,9 °C,23:00,80%,Clear.,//c.tadst.com/gfx/w/svg/wt-13.svg,11 °C,23 km/h,Wind blowing from 36° Northeast to Southwest
+-,Carlow,8%,4 °C,00:00,89%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,7 °C,17 km/h,Wind blowing from 293° West-northwest to East-southeast
+-,Carlow,9%,4 °C,01:00,90%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,7 °C,17 km/h,Wind blowing from 293° West-northwest to East-southeast
+0.1  mm (rain),Carlow,32%,4 °C,02:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,17 km/h,Wind blowing from 293° West-northwest to East-southeast
+0.1  mm (rain),Carlow,46%,4 °C,03:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,18 km/h,Wind blowing from 294° West-northwest to East-southeast
+0.1  mm (rain),Carlow,61%,4 °C,04:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 295° West-northwest to East-southeast
+0.1  mm (rain),Carlow,52%,5 °C,05:00,91%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 297° West-northwest to East-southeast
+0.1  mm (rain),Carlow,43%,5 °C,06:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 300° West-northwest to East-southeast
+0.1  mm (rain),Carlow,34%,5 °C,07:00,93%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,8 °C,18 km/h,Wind blowing from 305° Northwest to Southeast
+-,Carlow,7%,4 °C,08:00,95%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,18 km/h,Wind blowing from 316° Northwest to Southeast
+-,Carlow,10%,4 °C,09:00,97%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,19 km/h,Wind blowing from 329° North-northwest to South-southeast
+-,Carlow,7%,5 °C,10:00,92%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,20 km/h,Wind blowing from 339° North-northwest to South-southeast
+-,Carlow,6%,7 °C,11:00,86%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,21 km/h,Wind blowing from 346° North-northwest to South-southeast
+-,Carlow,5%,8 °C,12:00,82%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,21 km/h,Wind blowing from 354° North to South
+-,Carlow,5%,9 °C,13:00,79%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,22 km/h,Wind blowing from 0° North to South
+-,Carlow,7%,9 °C,14:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,22 km/h,Wind blowing from 2° North to South
+-,Carlow,10%,9 °C,15:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,22 km/h,Wind blowing from 359° North to South
+-,Carlow,12%,9 °C,16:00,77%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,22 km/h,Wind blowing from 358° North to South
+0.1  mm (rain),Carlow,27%,8 °C,17:00,80%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,22 km/h,Wind blowing from 358° North to South
+0.1  mm (rain),Carlow,29%,8 °C,18:00,84%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,22 km/h,Wind blowing from 359° North to South
+0.1  mm (rain),Carlow,31%,7 °C,19:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,22 km/h,Wind blowing from 0° North to South
+-,Carlow,8%,7 °C,20:00,87%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,21 km/h,Wind blowing from 1° North to South
+-,Carlow,8%,6 °C,21:00,85%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,21 km/h,Wind blowing from 3° North to South
+-,Carlow,8%,6 °C,22:00,84%,Cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,21 km/h,Wind blowing from 4° North to South
+0.1  mm (rain),Carlow,43%,5 °C,23:00,86%,Sprinkles. Cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,21 km/h,Wind blowing from 2° North to South
+-,Skibbereen,6%,8 °C,00:00,77%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,11 °C,28 km/h,Wind blowing from 316° Northwest to Southeast
+-,Skibbereen,5%,8 °C,01:00,79%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,29 km/h,Wind blowing from 316° Northwest to Southeast
+-,Skibbereen,5%,8 °C,02:00,79%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,30 km/h,Wind blowing from 317° Northwest to Southeast
+-,Skibbereen,5%,8 °C,03:00,77%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,31 km/h,Wind blowing from 321° Northwest to Southeast
+-,Skibbereen,5%,8 °C,04:00,77%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,11 °C,31 km/h,Wind blowing from 323° Northwest to Southeast
+-,Skibbereen,5%,8 °C,05:00,77%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,11 °C,31 km/h,Wind blowing from 323° Northwest to Southeast
+-,Skibbereen,6%,7 °C,06:00,78%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,11 °C,31 km/h,Wind blowing from 323° Northwest to Southeast
+-,Skibbereen,7%,7 °C,07:00,79%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,30 km/h,Wind blowing from 323° Northwest to Southeast
+-,Skibbereen,11%,7 °C,08:00,81%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,30 km/h,Wind blowing from 323° Northwest to Southeast
+0.1  mm (rain),Skibbereen,33%,8 °C,09:00,81%,A few showers. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,11 °C,30 km/h,Wind blowing from 323° Northwest to Southeast
+0.1  mm (rain),Skibbereen,43%,8 °C,10:00,81%,A few showers. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,11 °C,30 km/h,Wind blowing from 323° Northwest to Southeast
+0.1  mm (rain),Skibbereen,31%,9 °C,11:00,78%,A few showers. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,29 km/h,Wind blowing from 327° North-northwest to South-southeast
+-,Skibbereen,9%,10 °C,12:00,75%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,28 km/h,Wind blowing from 335° North-northwest to South-southeast
+-,Skibbereen,3%,11 °C,13:00,72%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,26 km/h,Wind blowing from 342° North-northwest to South-southeast
+-,Skibbereen,3%,11 °C,14:00,71%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,14 °C,25 km/h,Wind blowing from 341° North-northwest to South-southeast
+-,Skibbereen,2%,12 °C,15:00,70%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,14 °C,23 km/h,Wind blowing from 337° North-northwest to South-southeast
+-,Skibbereen,2%,12 °C,16:00,70%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,14 °C,22 km/h,Wind blowing from 337° North-northwest to South-southeast
+-,Skibbereen,2%,12 °C,17:00,71%,Sunny.,//c.tadst.com/gfx/w/svg/wt-1.svg,14 °C,20 km/h,Wind blowing from 342° North-northwest to South-southeast
+-,Skibbereen,2%,11 °C,18:00,74%,Sunny.,//c.tadst.com/gfx/w/svg/wt-1.svg,13 °C,18 km/h,Wind blowing from 350° North to South
+-,Skibbereen,1%,11 °C,19:00,79%,Clear.,//c.tadst.com/gfx/w/svg/wt-13.svg,12 °C,17 km/h,Wind blowing from 0° North to South
+-,Skibbereen,2%,10 °C,20:00,79%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,12 °C,18 km/h,Wind blowing from 8° North to South
+-,Skibbereen,3%,9 °C,21:00,78%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,12 °C,21 km/h,Wind blowing from 11° North to South
+-,Skibbereen,4%,9 °C,22:00,78%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,23 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Skibbereen,4%,8 °C,23:00,80%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,23 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Kilkenny,6%,4 °C,00:00,88%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,18 km/h,Wind blowing from 298° West-northwest to East-southeast
+-,Kilkenny,5%,4 °C,01:00,88%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,8 °C,18 km/h,Wind blowing from 298° West-northwest to East-southeast
+-,Kilkenny,12%,4 °C,02:00,89%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,7 °C,18 km/h,Wind blowing from 298° West-northwest to East-southeast
+0.1  mm (rain),Kilkenny,36%,4 °C,03:00,89%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,18 km/h,Wind blowing from 299° West-northwest to East-southeast
+0.1  mm (rain),Kilkenny,49%,4 °C,04:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,18 km/h,Wind blowing from 299° West-northwest to East-southeast
+0.3  mm (rain),Kilkenny,45%,4 °C,05:00,91%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,18 km/h,Wind blowing from 299° West-northwest to East-southeast
+0.2  mm (rain),Kilkenny,42%,4 °C,06:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,19 km/h,Wind blowing from 299° West-northwest to East-southeast
+0.2  mm (rain),Kilkenny,38%,4 °C,07:00,93%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,19 km/h,Wind blowing from 301° West-northwest to East-southeast
+0.1  mm (rain),Kilkenny,30%,4 °C,08:00,97%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,19 km/h,Wind blowing from 311° Northwest to Southeast
+-,Kilkenny,11%,4 °C,09:00,97%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,19 km/h,Wind blowing from 325° Northwest to Southeast
+-,Kilkenny,7%,6 °C,10:00,90%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,19 km/h,Wind blowing from 336° North-northwest to South-southeast
+-,Kilkenny,6%,8 °C,11:00,84%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,20 km/h,Wind blowing from 344° North-northwest to South-southeast
+-,Kilkenny,5%,9 °C,12:00,79%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,20 km/h,Wind blowing from 352° North to South
+-,Kilkenny,4%,10 °C,13:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 359° North to South
+-,Kilkenny,10%,10 °C,14:00,74%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 4° North to South
+0.1  mm (rain),Kilkenny,32%,10 °C,15:00,73%,A few showers. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,22 km/h,Wind blowing from 5° North to South
+0.1  mm (rain),Kilkenny,43%,10 °C,16:00,73%,A few showers. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,23 km/h,Wind blowing from 5° North to South
+0.1  mm (rain),Kilkenny,36%,9 °C,17:00,78%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,11 °C,22 km/h,Wind blowing from 4° North to South
+0.1  mm (rain),Kilkenny,28%,8 °C,18:00,85%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,10 °C,20 km/h,Wind blowing from 1° North to South
+-,Kilkenny,10%,8 °C,19:00,86%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,19 km/h,Wind blowing from 0° North to South
+-,Kilkenny,11%,7 °C,20:00,87%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,19 km/h,Wind blowing from 2° North to South
+-,Kilkenny,6%,6 °C,21:00,85%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,20 km/h,Wind blowing from 5° North to South
+-,Kilkenny,6%,6 °C,22:00,84%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,20 km/h,Wind blowing from 7° North to South
+0.1  mm (rain),Kilkenny,30%,5 °C,23:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,21 km/h,Wind blowing from 4° North to South
+0.4  mm (rain),Sligo,55%,6 °C,00:00,86%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,27 km/h,Wind blowing from 319° Northwest to Southeast
+0.5  mm (rain),Sligo,62%,6 °C,01:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,27 km/h,Wind blowing from 322° Northwest to Southeast
+0.6  mm (rain),Sligo,60%,6 °C,02:00,89%,Light rain. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,25 km/h,Wind blowing from 327° North-northwest to South-southeast
+0.6  mm (rain),Sligo,59%,6 °C,03:00,89%,Light rain. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 334° North-northwest to South-southeast
+0.6  mm (rain),Sligo,57%,7 °C,04:00,89%,Light rain. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,22 km/h,Wind blowing from 340° North-northwest to South-southeast
+0.2  mm (rain),Sligo,49%,7 °C,05:00,89%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,21 km/h,Wind blowing from 345° North-northwest to South-southeast
+0.2  mm (rain),Sligo,40%,6 °C,06:00,90%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,19 km/h,Wind blowing from 350° North to South
+0.1  mm (rain),Sligo,31%,7 °C,07:00,89%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,9 °C,18 km/h,Wind blowing from 354° North to South
+-,Sligo,11%,6 °C,08:00,91%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,18 km/h,Wind blowing from 358° North to South
+-,Sligo,7%,7 °C,09:00,92%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,18 km/h,Wind blowing from 359° North to South
+-,Sligo,3%,8 °C,10:00,90%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,18 km/h,Wind blowing from 2° North to South
+-,Sligo,3%,9 °C,11:00,85%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,19 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Sligo,3%,10 °C,12:00,79%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 30° North-northeast to South-southwest
+-,Sligo,3%,11 °C,13:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,22 km/h,Wind blowing from 41° Northeast to Southwest
+-,Sligo,5%,11 °C,14:00,74%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,22 km/h,Wind blowing from 44° Northeast to Southwest
+-,Sligo,6%,11 °C,15:00,74%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,22 km/h,Wind blowing from 43° Northeast to Southwest
+-,Sligo,8%,11 °C,16:00,74%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,21 km/h,Wind blowing from 41° Northeast to Southwest
+-,Sligo,7%,10 °C,17:00,76%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,19 km/h,Wind blowing from 36° Northeast to Southwest
+-,Sligo,6%,9 °C,18:00,80%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,16 km/h,Wind blowing from 26° North-northeast to South-southwest
+-,Sligo,5%,8 °C,19:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,14 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Sligo,4%,7 °C,20:00,86%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,12 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Sligo,4%,7 °C,21:00,87%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,8 °C,10 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Sligo,3%,6 °C,22:00,87%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,8 °C,10 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Sligo,3%,6 °C,23:00,89%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,8 °C,10 km/h,Wind blowing from 24° North-northeast to South-southwest
+0.1  mm (rain),Carrickmacross,44%,4 °C,00:00,90%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,15 km/h,Wind blowing from 286° West-northwest to East-southeast
+0.1  mm (rain),Carrickmacross,57%,5 °C,01:00,92%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,15 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.1  mm (rain),Carrickmacross,57%,5 °C,02:00,93%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,15 km/h,Wind blowing from 292° West-northwest to East-southeast
+0.1  mm (rain),Carrickmacross,57%,5 °C,03:00,94%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,15 km/h,Wind blowing from 293° West-northwest to East-southeast
+0.1  mm (rain),Carrickmacross,56%,4 °C,04:00,95%,A few showers. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,15 km/h,Wind blowing from 296° West-northwest to East-southeast
+0.1  mm (rain),Carrickmacross,46%,4 °C,05:00,95%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,15 km/h,Wind blowing from 301° West-northwest to East-southeast
+0.1  mm (rain),Carrickmacross,35%,4 °C,06:00,96%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,6 °C,13 km/h,Wind blowing from 309° Northwest to Southeast
+-,Carrickmacross,12%,3 °C,07:00,97%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,6 °C,13 km/h,Wind blowing from 317° Northwest to Southeast
+-,Carrickmacross,9%,3 °C,08:00,98%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,6 °C,13 km/h,Wind blowing from 326° Northwest to Southeast
+-,Carrickmacross,6%,4 °C,09:00,99%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,7 °C,13 km/h,Wind blowing from 336° North-northwest to South-southeast
+-,Carrickmacross,3%,6 °C,10:00,92%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,15 km/h,Wind blowing from 349° North to South
+-,Carrickmacross,5%,8 °C,11:00,84%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,17 km/h,Wind blowing from 3° North to South
+-,Carrickmacross,8%,9 °C,12:00,78%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,20 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Carrickmacross,10%,10 °C,13:00,74%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,23 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Carrickmacross,10%,10 °C,14:00,73%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,25 km/h,Wind blowing from 23° North-northeast to South-southwest
+-,Carrickmacross,11%,10 °C,15:00,76%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,26 km/h,Wind blowing from 23° North-northeast to South-southwest
+-,Carrickmacross,11%,9 °C,16:00,79%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,27 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Carrickmacross,6%,8 °C,17:00,81%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,25 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Carrickmacross,7%,7 °C,18:00,82%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,23 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Carrickmacross,7%,6 °C,19:00,81%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,21 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Carrickmacross,7%,6 °C,20:00,82%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,19 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Carrickmacross,7%,5 °C,21:00,83%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Carrickmacross,7%,5 °C,22:00,85%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Carrickmacross,8%,4 °C,23:00,86%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 14° North-northeast to South-southwest
+0.3  mm (rain),Letterkenny,56%,6 °C,00:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,12 km/h,Wind blowing from 305° Northwest to Southeast
+0.4  mm (rain),Letterkenny,66%,6 °C,01:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,12 km/h,Wind blowing from 308° Northwest to Southeast
+0.2  mm (rain),Letterkenny,50%,6 °C,02:00,94%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,12 km/h,Wind blowing from 310° Northwest to Southeast
+0.1  mm (rain),Letterkenny,35%,6 °C,03:00,96%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,11 km/h,Wind blowing from 314° Northwest to Southeast
+-,Letterkenny,10%,5 °C,04:00,97%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,10 km/h,Wind blowing from 317° Northwest to Southeast
+-,Letterkenny,10%,5 °C,05:00,97%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,11 km/h,Wind blowing from 316° Northwest to Southeast
+-,Letterkenny,10%,5 °C,06:00,96%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,11 km/h,Wind blowing from 314° Northwest to Southeast
+-,Letterkenny,10%,5 °C,07:00,95%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,7 °C,11 km/h,Wind blowing from 319° Northwest to Southeast
+-,Letterkenny,8%,5 °C,08:00,97%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,12 km/h,Wind blowing from 334° North-northwest to South-southeast
+-,Letterkenny,6%,6 °C,09:00,99%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,12 km/h,Wind blowing from 355° North to South
+-,Letterkenny,4%,8 °C,10:00,94%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,13 km/h,Wind blowing from 16° North-northeast to South-southwest
+-,Letterkenny,6%,9 °C,11:00,87%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,15 km/h,Wind blowing from 31° North-northeast to South-southwest
+-,Letterkenny,7%,9 °C,12:00,82%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,18 km/h,Wind blowing from 39° Northeast to Southwest
+-,Letterkenny,9%,10 °C,13:00,79%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 44° Northeast to Southwest
+-,Letterkenny,11%,10 °C,14:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 44° Northeast to Southwest
+-,Letterkenny,13%,10 °C,15:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,20 km/h,Wind blowing from 39° Northeast to Southwest
+-,Letterkenny,15%,10 °C,16:00,76%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,18 km/h,Wind blowing from 33° North-northeast to South-southwest
+-,Letterkenny,11%,9 °C,17:00,79%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,15 km/h,Wind blowing from 28° North-northeast to South-southwest
+-,Letterkenny,7%,8 °C,18:00,81%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,10 °C,13 km/h,Wind blowing from 23° North-northeast to South-southwest
+-,Letterkenny,2%,7 °C,19:00,84%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,10 km/h,Wind blowing from 16° North-northeast to South-southwest
+-,Letterkenny,3%,5 °C,20:00,91%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,10 km/h,Wind blowing from 10° North to South
+-,Letterkenny,3%,5 °C,21:00,92%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,10 km/h,Wind blowing from 5° North to South
+-,Letterkenny,3%,6 °C,22:00,89%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,10 km/h,Wind blowing from 2° North to South
+-,Letterkenny,3%,5 °C,23:00,89%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,10 km/h,Wind blowing from 3° North to South
+0.2  mm (rain),Tralee,29%,8 °C,00:00,84%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,22 km/h,Wind blowing from 321° Northwest to Southeast
+0.2  mm (rain),Tralee,31%,7 °C,01:00,85%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 322° Northwest to Southeast
+0.1  mm (rain),Tralee,29%,7 °C,02:00,86%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 322° Northwest to Southeast
+0.1  mm (rain),Tralee,27%,7 °C,03:00,85%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 322° Northwest to Southeast
+0.1  mm (rain),Tralee,25%,7 °C,04:00,84%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 323° Northwest to Southeast
+0.2  mm (rain),Tralee,32%,7 °C,05:00,85%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 323° Northwest to Southeast
+0.2  mm (rain),Tralee,39%,7 °C,06:00,87%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,24 km/h,Wind blowing from 322° Northwest to Southeast
+0.2  mm (rain),Tralee,46%,7 °C,07:00,88%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,24 km/h,Wind blowing from 323° Northwest to Southeast
+0.3  mm (rain),Tralee,42%,7 °C,08:00,90%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,24 km/h,Wind blowing from 325° Northwest to Southeast
+0.2  mm (rain),Tralee,38%,7 °C,09:00,91%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,24 km/h,Wind blowing from 330° North-northwest to South-southeast
+0.2  mm (rain),Tralee,34%,8 °C,10:00,87%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,24 km/h,Wind blowing from 334° North-northwest to South-southeast
+0.2  mm (rain),Tralee,32%,9 °C,11:00,83%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,12 °C,23 km/h,Wind blowing from 339° North-northwest to South-southeast
+0.2  mm (rain),Tralee,29%,10 °C,12:00,78%,A few showers. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,23 km/h,Wind blowing from 345° North-northwest to South-southeast
+0.1  mm (rain),Tralee,27%,11 °C,13:00,74%,A few showers. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,13 °C,22 km/h,Wind blowing from 351° North to South
+-,Tralee,9%,11 °C,14:00,73%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,22 km/h,Wind blowing from 352° North to South
+-,Tralee,6%,12 °C,15:00,74%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,22 km/h,Wind blowing from 351° North to South
+-,Tralee,2%,11 °C,16:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,21 km/h,Wind blowing from 352° North to South
+-,Tralee,2%,11 °C,17:00,77%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,18 km/h,Wind blowing from 0° North to South
+-,Tralee,2%,11 °C,18:00,79%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,14 km/h,Wind blowing from 22° North-northeast to South-southwest
+-,Tralee,2%,9 °C,19:00,84%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,12 km/h,Wind blowing from 41° Northeast to Southwest
+-,Tralee,3%,9 °C,20:00,86%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,11 km/h,Wind blowing from 38° Northeast to Southwest
+-,Tralee,4%,8 °C,21:00,89%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,10 km/h,Wind blowing from 31° North-northeast to South-southwest
+-,Tralee,5%,7 °C,22:00,89%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,10 km/h,Wind blowing from 27° North-northeast to South-southwest
+-,Tralee,5%,7 °C,23:00,90%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,10 km/h,Wind blowing from 29° North-northeast to South-southwest
+-,Cork,10%,6 °C,00:00,85%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,15 km/h,Wind blowing from 297° West-northwest to East-southeast
+-,Cork,10%,6 °C,01:00,87%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,15 km/h,Wind blowing from 295° West-northwest to East-southeast
+-,Cork,12%,6 °C,02:00,88%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,17 km/h,Wind blowing from 297° West-northwest to East-southeast
+0.1  mm (rain),Cork,26%,6 °C,03:00,88%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,18 km/h,Wind blowing from 301° West-northwest to East-southeast
+0.1  mm (rain),Cork,28%,5 °C,04:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 305° Northwest to Southeast
+0.1  mm (rain),Cork,33%,5 °C,05:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 303° West-northwest to East-southeast
+0.1  mm (rain),Cork,38%,5 °C,06:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 300° West-northwest to East-southeast
+0.1  mm (rain),Cork,43%,5 °C,07:00,91%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,8 °C,19 km/h,Wind blowing from 302° West-northwest to East-southeast
+0.1  mm (rain),Cork,34%,4 °C,08:00,93%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,8 °C,20 km/h,Wind blowing from 310° Northwest to Southeast
+0.1  mm (rain),Cork,25%,5 °C,09:00,94%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,8 °C,21 km/h,Wind blowing from 320° Northwest to Southeast
+-,Cork,8%,7 °C,10:00,87%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,10 °C,21 km/h,Wind blowing from 330° North-northwest to South-southeast
+-,Cork,6%,9 °C,11:00,80%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,23 km/h,Wind blowing from 338° North-northwest to South-southeast
+-,Cork,5%,10 °C,12:00,72%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,25 km/h,Wind blowing from 346° North-northwest to South-southeast
+-,Cork,3%,10 °C,13:00,68%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,26 km/h,Wind blowing from 350° North to South
+-,Cork,3%,11 °C,14:00,67%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,26 km/h,Wind blowing from 352° North to South
+-,Cork,3%,11 °C,15:00,68%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,25 km/h,Wind blowing from 353° North to South
+-,Cork,2%,11 °C,16:00,71%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,24 km/h,Wind blowing from 354° North to South
+-,Cork,3%,10 °C,17:00,74%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,22 km/h,Wind blowing from 357° North to South
+-,Cork,4%,9 °C,18:00,78%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,19 km/h,Wind blowing from 2° North to South
+-,Cork,5%,8 °C,19:00,81%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,18 km/h,Wind blowing from 4° North to South
+-,Cork,5%,7 °C,20:00,83%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,19 km/h,Wind blowing from 2° North to South
+-,Cork,5%,7 °C,21:00,87%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,21 km/h,Wind blowing from 358° North to South
+-,Cork,5%,6 °C,22:00,89%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,22 km/h,Wind blowing from 356° North to South
+-,Cork,5%,6 °C,23:00,89%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,22 km/h,Wind blowing from 353° North to South
+-,Limerick,9%,7 °C,00:00,84%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,14 km/h,Wind blowing from 304° Northwest to Southeast
+-,Limerick,9%,7 °C,01:00,85%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,16 km/h,Wind blowing from 305° Northwest to Southeast
+0.1  mm (rain),Limerick,29%,7 °C,02:00,86%,Sprinkles. Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,15 km/h,Wind blowing from 305° Northwest to Southeast
+0.1  mm (rain),Limerick,39%,6 °C,03:00,86%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,15 km/h,Wind blowing from 303° West-northwest to East-southeast
+0.1  mm (rain),Limerick,50%,6 °C,04:00,87%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,15 km/h,Wind blowing from 303° West-northwest to East-southeast
+0.1  mm (rain),Limerick,41%,6 °C,05:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,15 km/h,Wind blowing from 304° Northwest to Southeast
+0.1  mm (rain),Limerick,32%,6 °C,06:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,15 km/h,Wind blowing from 306° Northwest to Southeast
+-,Limerick,11%,6 °C,07:00,90%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,15 km/h,Wind blowing from 309° Northwest to Southeast
+-,Limerick,9%,5 °C,08:00,93%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,16 km/h,Wind blowing from 315° Northwest to Southeast
+-,Limerick,7%,6 °C,09:00,94%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,16 km/h,Wind blowing from 323° Northwest to Southeast
+-,Limerick,5%,7 °C,10:00,88%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,10 °C,16 km/h,Wind blowing from 330° North-northwest to South-southeast
+-,Limerick,5%,9 °C,11:00,84%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,16 km/h,Wind blowing from 332° North-northwest to South-southeast
+-,Limerick,4%,9 °C,12:00,81%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,15 km/h,Wind blowing from 329° North-northwest to South-southeast
+-,Limerick,3%,10 °C,13:00,80%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,15 km/h,Wind blowing from 329° North-northwest to South-southeast
+-,Limerick,4%,11 °C,14:00,76%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,16 km/h,Wind blowing from 353° North to South
+-,Limerick,4%,11 °C,15:00,74%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,18 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Limerick,5%,12 °C,16:00,73%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,19 km/h,Wind blowing from 29° North-northeast to South-southwest
+-,Limerick,5%,11 °C,17:00,75%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,18 km/h,Wind blowing from 26° North-northeast to South-southwest
+-,Limerick,6%,9 °C,18:00,82%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,15 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Limerick,7%,8 °C,19:00,83%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,14 km/h,Wind blowing from 10° North to South
+-,Limerick,7%,8 °C,20:00,84%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,13 km/h,Wind blowing from 8° North to South
+-,Limerick,7%,7 °C,21:00,85%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,13 km/h,Wind blowing from 6° North to South
+-,Limerick,7%,6 °C,22:00,85%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,14 km/h,Wind blowing from 4° North to South
+-,Limerick,6%,6 °C,23:00,86%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,13 km/h,Wind blowing from 4° North to South
+-,Tullamore,10%,4 °C,00:00,90%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,16 km/h,Wind blowing from 282° West-northwest to East-southeast
+-,Tullamore,12%,5 °C,01:00,91%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,17 km/h,Wind blowing from 284° West-northwest to East-southeast
+0.1  mm (rain),Tullamore,28%,5 °C,02:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 285° West-northwest to East-southeast
+0.1  mm (rain),Tullamore,32%,5 °C,03:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 286° West-northwest to East-southeast
+0.1  mm (rain),Tullamore,36%,5 °C,04:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 289° West-northwest to East-southeast
+0.1  mm (rain),Tullamore,42%,5 °C,05:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 296° West-northwest to East-southeast
+0.1  mm (rain),Tullamore,48%,5 °C,06:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 308° Northwest to Southeast
+0.1  mm (rain),Tullamore,55%,5 °C,07:00,94%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,15 km/h,Wind blowing from 317° Northwest to Southeast
+0.1  mm (rain),Tullamore,40%,4 °C,08:00,98%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,15 km/h,Wind blowing from 321° Northwest to Southeast
+0.1  mm (rain),Tullamore,25%,5 °C,09:00,97%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,15 km/h,Wind blowing from 323° Northwest to Southeast
+-,Tullamore,5%,6 °C,10:00,92%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,15 km/h,Wind blowing from 328° North-northwest to South-southeast
+-,Tullamore,4%,8 °C,11:00,85%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,16 km/h,Wind blowing from 341° North-northwest to South-southeast
+-,Tullamore,4%,9 °C,12:00,81%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,18 km/h,Wind blowing from 1° North to South
+-,Tullamore,3%,10 °C,13:00,78%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,19 km/h,Wind blowing from 12° North-northeast to South-southwest
+-,Tullamore,6%,10 °C,14:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,19 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Tullamore,9%,10 °C,15:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,20 km/h,Wind blowing from 15° North-northeast to South-southwest
+0.1  mm (rain),Tullamore,25%,10 °C,16:00,78%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,12 °C,20 km/h,Wind blowing from 14° North-northeast to South-southwest
+0.1  mm (rain),Tullamore,25%,9 °C,17:00,80%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,20 km/h,Wind blowing from 12° North-northeast to South-southwest
+0.1  mm (rain),Tullamore,25%,8 °C,18:00,84%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,20 km/h,Wind blowing from 11° North to South
+-,Tullamore,12%,7 °C,19:00,85%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,19 km/h,Wind blowing from 10° North to South
+-,Tullamore,6%,6 °C,20:00,86%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,18 km/h,Wind blowing from 10° North to South
+-,Tullamore,6%,6 °C,21:00,86%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,17 km/h,Wind blowing from 11° North to South
+-,Tullamore,6%,5 °C,22:00,85%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,16 km/h,Wind blowing from 11° North to South
+-,Tullamore,7%,4 °C,23:00,85%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,16 km/h,Wind blowing from 10° North to South
+-,Drogheda,18%,5 °C,00:00,89%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,20 km/h,Wind blowing from 288° West-northwest to East-southeast
+-,Drogheda,25%,5 °C,01:00,90%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,20 km/h,Wind blowing from 285° West-northwest to East-southeast
+0.1  mm (rain),Drogheda,45%,5 °C,02:00,91%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 283° West-northwest to East-southeast
+0.1  mm (rain),Drogheda,41%,5 °C,03:00,92%,A few showers. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 282° West-northwest to East-southeast
+0.1  mm (rain),Drogheda,36%,5 °C,04:00,92%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 284° West-northwest to East-southeast
+0.1  mm (rain),Drogheda,34%,5 °C,05:00,92%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 288° West-northwest to East-southeast
+0.1  mm (rain),Drogheda,32%,4 °C,06:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 295° West-northwest to East-southeast
+0.1  mm (rain),Drogheda,31%,4 °C,07:00,93%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,19 km/h,Wind blowing from 305° Northwest to Southeast
+-,Drogheda,12%,4 °C,08:00,93%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,7 °C,19 km/h,Wind blowing from 319° Northwest to Southeast
+-,Drogheda,8%,4 °C,09:00,94%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,21 km/h,Wind blowing from 333° North-northwest to South-southeast
+-,Drogheda,5%,6 °C,10:00,89%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,9 °C,22 km/h,Wind blowing from 344° North-northwest to South-southeast
+-,Drogheda,7%,7 °C,11:00,82%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,23 km/h,Wind blowing from 354° North to South
+-,Drogheda,9%,9 °C,12:00,77%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,24 km/h,Wind blowing from 3° North to South
+-,Drogheda,11%,10 °C,13:00,73%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,25 km/h,Wind blowing from 11° North to South
+-,Drogheda,17%,10 °C,14:00,73%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,27 km/h,Wind blowing from 16° North-northeast to South-southwest
+0.1  mm (rain),Drogheda,44%,10 °C,15:00,76%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,30 km/h,Wind blowing from 17° North-northeast to South-southwest
+0.1  mm (rain),Drogheda,54%,9 °C,16:00,81%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,32 km/h,Wind blowing from 17° North-northeast to South-southwest
+0.1  mm (rain),Drogheda,54%,9 °C,17:00,80%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,32 km/h,Wind blowing from 17° North-northeast to South-southwest
+0.1  mm (rain),Drogheda,55%,8 °C,18:00,81%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,11 °C,32 km/h,Wind blowing from 18° North-northeast to South-southwest
+0.1  mm (rain),Drogheda,56%,7 °C,19:00,81%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,31 km/h,Wind blowing from 18° North-northeast to South-southwest
+-,Drogheda,13%,7 °C,20:00,81%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,31 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Drogheda,12%,7 °C,21:00,81%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,31 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Drogheda,11%,7 °C,22:00,81%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,31 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Drogheda,10%,7 °C,23:00,82%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,30 km/h,Wind blowing from 19° North-northeast to South-southwest
+0.2  mm (rain),Longford,47%,5 °C,00:00,91%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 285° West-northwest to East-southeast
+0.2  mm (rain),Longford,57%,6 °C,01:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.2  mm (rain),Longford,56%,5 °C,02:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 286° West-northwest to East-southeast
+0.2  mm (rain),Longford,55%,5 °C,03:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 281° West to East
+0.2  mm (rain),Longford,54%,5 °C,04:00,95%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 280° West to East
+0.1  mm (rain),Longford,41%,5 °C,05:00,95%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,15 km/h,Wind blowing from 288° West-northwest to East-southeast
+0.1  mm (rain),Longford,29%,5 °C,06:00,95%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,13 km/h,Wind blowing from 301° West-northwest to East-southeast
+-,Longford,8%,5 °C,07:00,95%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,12 km/h,Wind blowing from 312° Northwest to Southeast
+-,Longford,7%,4 °C,08:00,97%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,12 km/h,Wind blowing from 317° Northwest to Southeast
+-,Longford,5%,5 °C,09:00,98%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,7 °C,13 km/h,Wind blowing from 319° Northwest to Southeast
+-,Longford,3%,7 °C,10:00,92%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,9 °C,14 km/h,Wind blowing from 323° Northwest to Southeast
+-,Longford,3%,8 °C,11:00,85%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,16 km/h,Wind blowing from 342° North-northwest to South-southeast
+-,Longford,3%,9 °C,12:00,80%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,19 km/h,Wind blowing from 13° North-northeast to South-southwest
+-,Longford,3%,10 °C,13:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,21 km/h,Wind blowing from 29° North-northeast to South-southwest
+-,Longford,6%,11 °C,14:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,22 km/h,Wind blowing from 33° North-northeast to South-southwest
+-,Longford,9%,10 °C,15:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,23 km/h,Wind blowing from 33° North-northeast to South-southwest
+0.1  mm (rain),Longford,25%,10 °C,16:00,78%,A few showers. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,23 km/h,Wind blowing from 31° North-northeast to South-southwest
+-,Longford,11%,8 °C,17:00,81%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,22 km/h,Wind blowing from 25° North-northeast to South-southwest
+-,Longford,9%,7 °C,18:00,83%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,21 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Longford,8%,7 °C,19:00,84%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,9 °C,19 km/h,Wind blowing from 9° North to South
+-,Longford,7%,6 °C,20:00,86%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,18 km/h,Wind blowing from 4° North to South
+-,Longford,5%,5 °C,21:00,86%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,16 km/h,Wind blowing from 0° North to South
+-,Longford,4%,5 °C,22:00,87%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,8 °C,15 km/h,Wind blowing from 358° North to South
+-,Longford,5%,4 °C,23:00,87%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,15 km/h,Wind blowing from 0° North to South
+-,Waterville,11%,8 °C,00:00,81%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,30 km/h,Wind blowing from 323° Northwest to Southeast
+-,Waterville,11%,8 °C,01:00,83%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,31 km/h,Wind blowing from 323° Northwest to Southeast
+-,Waterville,11%,7 °C,02:00,82%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,31 km/h,Wind blowing from 325° Northwest to Southeast
+-,Waterville,12%,7 °C,03:00,80%,Passing clouds.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,31 km/h,Wind blowing from 329° North-northwest to South-southeast
+0.1  mm (rain),Waterville,25%,7 °C,04:00,79%,A few showers. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,31 km/h,Wind blowing from 331° North-northwest to South-southeast
+0.1  mm (rain),Waterville,28%,7 °C,05:00,79%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,32 km/h,Wind blowing from 331° North-northwest to South-southeast
+0.1  mm (rain),Waterville,31%,7 °C,06:00,80%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,32 km/h,Wind blowing from 330° North-northwest to South-southeast
+0.1  mm (rain),Waterville,34%,7 °C,07:00,81%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,32 km/h,Wind blowing from 329° North-northwest to South-southeast
+0.2  mm (rain),Waterville,27%,7 °C,08:00,84%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,32 km/h,Wind blowing from 329° North-northwest to South-southeast
+-,Waterville,10%,7 °C,09:00,88%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,32 km/h,Wind blowing from 329° North-northwest to South-southeast
+-,Waterville,7%,8 °C,10:00,86%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,31 km/h,Wind blowing from 331° North-northwest to South-southeast
+-,Waterville,8%,9 °C,11:00,82%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,30 km/h,Wind blowing from 338° North-northwest to South-southeast
+-,Waterville,10%,10 °C,12:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,28 km/h,Wind blowing from 353° North to South
+-,Waterville,11%,11 °C,13:00,73%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,27 km/h,Wind blowing from 4° North to South
+-,Waterville,8%,11 °C,14:00,73%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,13 °C,26 km/h,Wind blowing from 359° North to South
+-,Waterville,5%,11 °C,15:00,73%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,27 km/h,Wind blowing from 347° North-northwest to South-southeast
+-,Waterville,2%,11 °C,16:00,74%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,27 km/h,Wind blowing from 344° North-northwest to South-southeast
+-,Waterville,2%,11 °C,17:00,77%,Mostly sunny.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,24 km/h,Wind blowing from 350° North to South
+-,Waterville,2%,10 °C,18:00,79%,Sunny.,//c.tadst.com/gfx/w/svg/wt-1.svg,12 °C,20 km/h,Wind blowing from 357° North to South
+-,Waterville,1%,10 °C,19:00,84%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,12 °C,17 km/h,Wind blowing from 8° North to South
+-,Waterville,3%,9 °C,20:00,83%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,18 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Waterville,4%,9 °C,21:00,82%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,21 km/h,Wind blowing from 27° North-northeast to South-southwest
+-,Waterville,5%,8 °C,22:00,81%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,11 °C,22 km/h,Wind blowing from 34° Northeast to Southwest
+-,Waterville,4%,8 °C,23:00,82%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,10 °C,22 km/h,Wind blowing from 38° Northeast to Southwest
+0.1  mm (rain),Dublin,34%,5 °C,00:00,86%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 280° West to East
+0.1  mm (rain),Dublin,41%,5 °C,01:00,88%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 276° West to East
+0.1  mm (rain),Dublin,46%,5 °C,02:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 275° West to East
+0.2  mm (rain),Dublin,51%,5 °C,03:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 278° West to East
+0.2  mm (rain),Dublin,56%,5 °C,04:00,87%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 280° West to East
+0.1  mm (rain),Dublin,49%,5 °C,05:00,88%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 283° West-northwest to East-southeast
+0.1  mm (rain),Dublin,42%,5 °C,06:00,90%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 286° West-northwest to East-southeast
+0.1  mm (rain),Dublin,36%,5 °C,07:00,91%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,8 °C,18 km/h,Wind blowing from 291° West-northwest to East-southeast
+-,Dublin,7%,5 °C,08:00,93%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,17 km/h,Wind blowing from 302° West-northwest to East-southeast
+-,Dublin,11%,5 °C,09:00,93%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,18 km/h,Wind blowing from 317° Northwest to Southeast
+-,Dublin,8%,6 °C,10:00,88%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,9 °C,18 km/h,Wind blowing from 331° North-northwest to South-southeast
+-,Dublin,11%,7 °C,11:00,83%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,19 km/h,Wind blowing from 343° North-northwest to South-southeast
+0.1  mm (rain),Dublin,29%,8 °C,12:00,78%,A few showers. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,11 °C,21 km/h,Wind blowing from 355° North to South
+0.1  mm (rain),Dublin,36%,9 °C,13:00,75%,A few showers. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,22 km/h,Wind blowing from 4° North to South
+0.1  mm (rain),Dublin,43%,9 °C,14:00,74%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,23 km/h,Wind blowing from 8° North to South
+0.1  mm (rain),Dublin,51%,9 °C,15:00,77%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,24 km/h,Wind blowing from 8° North to South
+0.1  mm (rain),Dublin,58%,9 °C,16:00,79%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,25 km/h,Wind blowing from 10° North to South
+0.1  mm (rain),Dublin,61%,9 °C,17:00,79%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,26 km/h,Wind blowing from 14° North-northeast to South-southwest
+0.1  mm (rain),Dublin,64%,9 °C,18:00,80%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,27 km/h,Wind blowing from 18° North-northeast to South-southwest
+0.1  mm (rain),Dublin,68%,8 °C,19:00,81%,Sprinkles. Cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,27 km/h,Wind blowing from 22° North-northeast to South-southwest
+0.1  mm (rain),Dublin,68%,8 °C,20:00,81%,Sprinkles. Cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,27 km/h,Wind blowing from 23° North-northeast to South-southwest
+0.1  mm (rain),Dublin,68%,8 °C,21:00,81%,Sprinkles. Cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,27 km/h,Wind blowing from 24° North-northeast to South-southwest
+0.1  mm (rain),Dublin,68%,8 °C,22:00,82%,Sprinkles. Cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,11 °C,27 km/h,Wind blowing from 24° North-northeast to South-southwest
+0.2  mm (rain),Dublin,62%,7 °C,23:00,84%,Sprinkles. Cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,27 km/h,Wind blowing from 23° North-northeast to South-southwest
+0.1  mm (rain),Mullingar,46%,4 °C,00:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 287° West-northwest to East-southeast
+0.1  mm (rain),Mullingar,58%,5 °C,01:00,90%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.2  mm (rain),Mullingar,56%,5 °C,02:00,91%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,19 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.2  mm (rain),Mullingar,53%,5 °C,03:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.1  mm (rain),Mullingar,50%,5 °C,04:00,94%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 292° West-northwest to East-southeast
+0.1  mm (rain),Mullingar,42%,4 °C,05:00,94%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,17 km/h,Wind blowing from 300° West-northwest to East-southeast
+0.1  mm (rain),Mullingar,33%,4 °C,06:00,93%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,16 km/h,Wind blowing from 313° Northwest to Southeast
+-,Mullingar,12%,4 °C,07:00,94%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,15 km/h,Wind blowing from 322° Northwest to Southeast
+-,Mullingar,9%,4 °C,08:00,97%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,15 km/h,Wind blowing from 326° Northwest to Southeast
+-,Mullingar,7%,4 °C,09:00,98%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,7 °C,15 km/h,Wind blowing from 327° North-northwest to South-southeast
+-,Mullingar,4%,6 °C,10:00,92%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,16 km/h,Wind blowing from 330° North-northwest to South-southeast
+-,Mullingar,4%,7 °C,11:00,86%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,18 km/h,Wind blowing from 345° North-northwest to South-southeast
+-,Mullingar,4%,8 °C,12:00,81%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,20 km/h,Wind blowing from 7° North to South
+-,Mullingar,4%,9 °C,13:00,78%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,22 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Mullingar,7%,10 °C,14:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,23 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Mullingar,9%,10 °C,15:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,24 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Mullingar,11%,9 °C,16:00,78%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,25 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Mullingar,12%,8 °C,17:00,79%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,24 km/h,Wind blowing from 20° North-northeast to South-southwest
+0.1  mm (rain),Mullingar,25%,7 °C,18:00,82%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,24 km/h,Wind blowing from 20° North-northeast to South-southwest
+0.1  mm (rain),Mullingar,25%,7 °C,19:00,81%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,10 °C,23 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Mullingar,12%,6 °C,20:00,83%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,21 km/h,Wind blowing from 16° North-northeast to South-southwest
+-,Mullingar,11%,5 °C,21:00,85%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 10° North to South
+-,Mullingar,10%,4 °C,22:00,86%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,18 km/h,Wind blowing from 5° North to South
+-,Mullingar,12%,4 °C,23:00,87%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,18 km/h,Wind blowing from 5° North to South
+0.1  mm (rain),Westport,34%,6 °C,00:00,86%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,17 km/h,Wind blowing from 303° West-northwest to East-southeast
+0.1  mm (rain),Westport,41%,6 °C,01:00,86%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,18 km/h,Wind blowing from 304° Northwest to Southeast
+0.1  mm (rain),Westport,33%,6 °C,02:00,87%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,18 km/h,Wind blowing from 304° Northwest to Southeast
+0.1  mm (rain),Westport,25%,6 °C,03:00,89%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,19 km/h,Wind blowing from 305° Northwest to Southeast
+-,Westport,8%,6 °C,04:00,90%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,20 km/h,Wind blowing from 306° Northwest to Southeast
+-,Westport,12%,6 °C,05:00,91%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,18 km/h,Wind blowing from 307° Northwest to Southeast
+0.1  mm (rain),Westport,31%,5 °C,06:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,16 km/h,Wind blowing from 308° Northwest to Southeast
+0.1  mm (rain),Westport,38%,6 °C,07:00,92%,Sprinkles. Passing clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,14 km/h,Wind blowing from 309° Northwest to Southeast
+0.1  mm (rain),Westport,31%,5 °C,08:00,94%,Sprinkles. More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-18.svg,8 °C,13 km/h,Wind blowing from 307° Northwest to Southeast
+-,Westport,12%,6 °C,09:00,94%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,8 °C,13 km/h,Wind blowing from 304° Northwest to Southeast
+-,Westport,8%,8 °C,10:00,89%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,10 °C,14 km/h,Wind blowing from 309° Northwest to Southeast
+-,Westport,6%,9 °C,11:00,84%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,11 °C,17 km/h,Wind blowing from 332° North-northwest to South-southeast
+-,Westport,5%,10 °C,12:00,80%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,12 °C,20 km/h,Wind blowing from 359° North to South
+-,Westport,3%,11 °C,13:00,77%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,23 km/h,Wind blowing from 13° North-northeast to South-southwest
+-,Westport,3%,11 °C,14:00,76%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,23 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Westport,3%,11 °C,15:00,74%,More sun than clouds.,//c.tadst.com/gfx/w/svg/wt-2.svg,13 °C,23 km/h,Wind blowing from 28° North-northeast to South-southwest
+-,Westport,3%,10 °C,16:00,75%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,22 km/h,Wind blowing from 31° North-northeast to South-southwest
+-,Westport,3%,10 °C,17:00,76%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,12 °C,20 km/h,Wind blowing from 29° North-northeast to South-southwest
+-,Westport,3%,9 °C,18:00,81%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-4.svg,11 °C,17 km/h,Wind blowing from 21° North-northeast to South-southwest
+-,Westport,3%,8 °C,19:00,87%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,10 °C,14 km/h,Wind blowing from 10° North to South
+-,Westport,3%,7 °C,20:00,88%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,9 °C,12 km/h,Wind blowing from 1° North to South
+-,Westport,3%,6 °C,21:00,89%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,8 °C,10 km/h,Wind blowing from 353° North to South
+-,Westport,3%,6 °C,22:00,90%,Partly cloudy.,//c.tadst.com/gfx/w/svg/wt-15.svg,8 °C,10 km/h,Wind blowing from 351° North to South
+-,Westport,3%,5 °C,23:00,91%,Mostly clear.,//c.tadst.com/gfx/w/svg/wt-14.svg,7 °C,10 km/h,Wind blowing from 355° North to South
+-,Dundalk,16%,5 °C,00:00,89%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,15 km/h,Wind blowing from 287° West-northwest to East-southeast
+-,Dundalk,23%,5 °C,01:00,92%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,14 km/h,Wind blowing from 285° West-northwest to East-southeast
+0.1  mm (rain),Dundalk,41%,5 °C,02:00,93%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,13 km/h,Wind blowing from 283° West-northwest to East-southeast
+0.1  mm (rain),Dundalk,37%,5 °C,03:00,94%,A few showers. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,13 km/h,Wind blowing from 284° West-northwest to East-southeast
+0.1  mm (rain),Dundalk,33%,5 °C,04:00,95%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,12 km/h,Wind blowing from 290° West-northwest to East-southeast
+0.1  mm (rain),Dundalk,30%,4 °C,05:00,96%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,13 km/h,Wind blowing from 299° West-northwest to East-southeast
+0.1  mm (rain),Dundalk,28%,4 °C,06:00,95%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,13 km/h,Wind blowing from 308° Northwest to Southeast
+0.1  mm (rain),Dundalk,25%,4 °C,07:00,95%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,7 °C,14 km/h,Wind blowing from 317° Northwest to Southeast
+-,Dundalk,10%,4 °C,08:00,95%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,7 °C,14 km/h,Wind blowing from 326° Northwest to Southeast
+-,Dundalk,7%,5 °C,09:00,95%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,7 °C,15 km/h,Wind blowing from 338° North-northwest to South-southeast
+-,Dundalk,4%,6 °C,10:00,89%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,9 °C,16 km/h,Wind blowing from 350° North to South
+-,Dundalk,7%,8 °C,11:00,82%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,18 km/h,Wind blowing from 1° North to South
+-,Dundalk,9%,9 °C,12:00,77%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,22 km/h,Wind blowing from 12° North-northeast to South-southwest
+-,Dundalk,12%,10 °C,13:00,74%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,24 km/h,Wind blowing from 18° North-northeast to South-southwest
+-,Dundalk,13%,10 °C,14:00,73%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,13 °C,26 km/h,Wind blowing from 20° North-northeast to South-southwest
+0.1  mm (rain),Dundalk,28%,10 °C,15:00,75%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,13 °C,27 km/h,Wind blowing from 20° North-northeast to South-southwest
+0.1  mm (rain),Dundalk,30%,10 °C,16:00,78%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,28 km/h,Wind blowing from 20° North-northeast to South-southwest
+-,Dundalk,7%,9 °C,17:00,79%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,27 km/h,Wind blowing from 19° North-northeast to South-southwest
+-,Dundalk,8%,8 °C,18:00,80%,More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,25 km/h,Wind blowing from 18° North-northeast to South-southwest
+-,Dundalk,8%,7 °C,19:00,80%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,23 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Dundalk,8%,7 °C,20:00,80%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,10 °C,22 km/h,Wind blowing from 16° North-northeast to South-southwest
+-,Dundalk,9%,6 °C,21:00,81%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,22 km/h,Wind blowing from 15° North-northeast to South-southwest
+-,Dundalk,9%,6 °C,22:00,82%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,22 km/h,Wind blowing from 14° North-northeast to South-southwest
+-,Dundalk,8%,6 °C,23:00,83%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,22 km/h,Wind blowing from 13° North-northeast to South-southwest
+-,Navan,20%,4 °C,00:00,90%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,7 °C,17 km/h,Wind blowing from 283° West-northwest to East-southeast
+0.1  mm (rain),Navan,56%,5 °C,01:00,91%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,17 km/h,Wind blowing from 283° West-northwest to East-southeast
+0.1  mm (rain),Navan,56%,5 °C,02:00,92%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 282° West-northwest to East-southeast
+0.1  mm (rain),Navan,57%,5 °C,03:00,92%,A few showers. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 282° West-northwest to East-southeast
+0.1  mm (rain),Navan,58%,5 °C,04:00,92%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,8 °C,18 km/h,Wind blowing from 283° West-northwest to East-southeast
+0.1  mm (rain),Navan,49%,4 °C,05:00,94%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,17 km/h,Wind blowing from 287° West-northwest to East-southeast
+0.1  mm (rain),Navan,40%,4 °C,06:00,95%,Sprinkles. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-34.svg,7 °C,14 km/h,Wind blowing from 295° West-northwest to East-southeast
+0.1  mm (rain),Navan,31%,4 °C,07:00,95%,Drizzle. Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-18.svg,6 °C,13 km/h,Wind blowing from 305° Northwest to Southeast
+-,Navan,11%,3 °C,08:00,97%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,6 °C,14 km/h,Wind blowing from 321° Northwest to Southeast
+-,Navan,8%,4 °C,09:00,98%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,7 °C,15 km/h,Wind blowing from 336° North-northwest to South-southeast
+-,Navan,4%,6 °C,10:00,92%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,8 °C,17 km/h,Wind blowing from 346° North-northwest to South-southeast
+-,Navan,6%,7 °C,11:00,85%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,10 °C,19 km/h,Wind blowing from 358° North to South
+-,Navan,7%,9 °C,12:00,79%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,11 °C,21 km/h,Wind blowing from 11° North to South
+-,Navan,9%,10 °C,13:00,75%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,22 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Navan,11%,10 °C,14:00,75%,Mostly cloudy.,//c.tadst.com/gfx/w/svg/wt-6.svg,12 °C,23 km/h,Wind blowing from 16° North-northeast to South-southwest
+0.1  mm (rain),Navan,28%,10 °C,15:00,76%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,24 km/h,Wind blowing from 15° North-northeast to South-southwest
+0.1  mm (rain),Navan,34%,9 °C,16:00,79%,A few showers. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-33.svg,12 °C,25 km/h,Wind blowing from 15° North-northeast to South-southwest
+0.1  mm (rain),Navan,34%,8 °C,17:00,82%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,11 °C,24 km/h,Wind blowing from 15° North-northeast to South-southwest
+0.1  mm (rain),Navan,34%,7 °C,18:00,84%,Sprinkles. More clouds than sun.,//c.tadst.com/gfx/w/svg/wt-18.svg,10 °C,23 km/h,Wind blowing from 16° North-northeast to South-southwest
+0.1  mm (rain),Navan,34%,6 °C,19:00,84%,Sprinkles. Broken clouds.,//c.tadst.com/gfx/w/svg/wt-34.svg,9 °C,22 km/h,Wind blowing from 17° North-northeast to South-southwest
+-,Navan,8%,6 °C,20:00,86%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,9 °C,21 km/h,Wind blowing from 16° North-northeast to South-southwest
+-,Navan,8%,5 °C,21:00,86%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 15° North-northeast to South-southwest
+-,Navan,8%,5 °C,22:00,87%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 13° North-northeast to South-southwest
+-,Navan,8%,4 °C,23:00,87%,Broken clouds.,//c.tadst.com/gfx/w/svg/wt-17.svg,8 °C,19 km/h,Wind blowing from 12° North-northeast to South-southwest
