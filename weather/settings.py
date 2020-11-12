@@ -68,9 +68,7 @@ ITEM_PIPELINES = {
 
 MONGODB_HOST = '127.0.0.1'
 MONGODB_PORT = 27017
-MONGODB_DBNAME = 'weather_test'
-MONGODB_DAYCOLLNAME = 'day_weather'
-MONGODB_HOURCOLLNAME = "hour_weather"
+MONGODB_DBNAME = 'weather_api'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
